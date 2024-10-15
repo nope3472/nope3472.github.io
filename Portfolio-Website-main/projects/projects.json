@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Project Manager",
+    "desc": "Developed a project management tool with real-time task assignmentand deadline tracking . Implemented notifications and seamless member onboarding via email",
+    "image": "assets/images/projects/projectmanager.png",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/nope3472/ProjectManager"
+    }
+  },
+  {
+    "name": "TF24",
+    "desc": "Led the development of a real-time collaborative platform with dynamic event management. Optimized performance for large user loads",
+    "image": "assets/images/projects/tf.jpeg",
+    "category": "android",
+    "links": {
+
+      "code": "https://github.com/nope3472/TF24"
+    }
+  },
+  {
+    "name": "Expense_tracker",
+    "desc": "Developed an expense management application that categorizes monthly expenses by payment mode, providing users with detailed insights into their spending habits.",
+    "image": "assets/images/projects/expense.png",
+    "category": "android",
+    "links": {
+      
+      "code": "https://github.com/nope3472/expense_tracker"
+    }
+  },
+  {
+    "name": "Workout App",
+    "desc": "Created a workout app using Kotlin that features custom animations and allows users to record their workout duration, saving the data  for easy tracking and analysis. ",
+    "image": "assets/images/projects/workout.png",
+    "category": "android",
+    "links": {
+      
+      "code": "https://github.com/nope3472/WorkoutApp"
+    }
+  },
+  {
+    "name": "Chatbot ",
+    "desc": "Developed an application utilizing the Gemini and Stability AI APIs to generate structured text responses and create images from text prompts",
+    "image": "assets/images/projects/chatbotapp.jpeg",
+    "category": "android",
+    "links": {
+      
+      "code": "https://github.com/nope3472/Chabot"
+    }
+  },
+  {
+    "name": "MusicAppUI",
+    "desc": "Created a music app UI using Kotlin and Jetpack Compose that showcases a comprehensive UI library for various music application components",
+    "image": "assets/images/projects/musicapp.avif",
+    "category": "android",
+    "links": {
+      
+      "code": "https://github.com/nope3472/MusicAppUI"
+    }
+  }
+  
+]
